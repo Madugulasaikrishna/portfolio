@@ -50,7 +50,7 @@ body{
     float: none;
     margin: auto;
     justify-content: space-evenly;
-    margin: 5px 125px;
+    /* margin: 5px 125px; */
 }
 
 #hero{
@@ -145,7 +145,7 @@ body{
 }
 
 .quick-links p{
-    text-align: auto;
+    text-align: center;
     margin-top: 15px;
     font-size: 45px;
     color: beige;
