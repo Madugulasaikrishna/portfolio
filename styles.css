@@ -126,6 +126,11 @@ body{
     font-size: 25px;
 }
 
+.linkss{
+    /* border: 1px solid black; */
+    width: 90%;
+}
+
 .linkss h1 a{
     font-size: 33px;
     text-decoration: none;
