@@ -104,3 +104,10 @@ body{
     top: 15px;
     /* margin-bottom: 35px; */
 }
+
+
+.resume h3,
+.resume a{
+    color: beige;
+
+}

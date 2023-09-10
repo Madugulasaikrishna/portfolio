@@ -169,3 +169,11 @@ body{
     font-weight: 500;
     margin-bottom: 35px;
 }
+
+.resume h3,
+.resume a{
+    color: beige;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
